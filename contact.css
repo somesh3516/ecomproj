@@ -1,0 +1,74 @@
+*
+{
+  margin:0;
+  padding:0;
+}
+body{
+   background-image:url("truegame.jpeg");
+  background-repeat:no-repeat;
+ 
+  background-size: cover;
+position:relative;
+}
+h1,h2{
+  text-align:center;
+  color:lime;
+  background-color:black;
+  
+}
+
+
+h2{
+  text-align:center;
+}
+li a{
+  float: left;
+  padding: 3px;
+  text-decoration:none;
+  font-size:200%;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  
+}
+
+a:hover{
+  background-color:#DCAE96;
+}
+a:visited { text-decoration: none; color:#65438e; }
+
+
+footer{
+  background-color:#f2fff0;
+  position:fixed;
+  bottom:0;
+  left:0;
+  right:0;
+ 
+}
+a:link, a:visited {
+  background-color: white;
+  color: black;
+  border: 2px solid green;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+form{
+  padding-top:20px
+  
+}
+ footer{
+position: fixed;
+bottom: 0;
+width: 200%;
+height: 10%;
+background: grey;
+ }
+label{
+  color:lime;
+  background-color:black;
+}

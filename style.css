@@ -1,0 +1,63 @@
+* {
+margin: 0;
+padding: 0;
+}
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+background-image:url("gamingmouse.jpeg");
+  background-repeat:no-repeat;
+ background-position: center;
+  background-size: cover;
+position:relative;
+}
+ 
+  li a{
+  
+    float:left;
+    padding-top:20px;
+    text-decoration:none;
+    font-size:200%;
+  }
+  ul{
+    list-style-type: none;
+    margin-top:-20px;
+      
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  
+  }
+h2{
+  background-color:#12ba15;
+  text-align:center;
+  padding-top:0px
+}
+h1{
+  background-color:#12ba15;
+  text-align:center;
+  padding-top:0px
+}
+ footer{
+     position: fixed;
+          
+            bottom: 0;
+           width: 200%;
+ 
+            height: 10%;
+            background: grey;
+ 
+  
+  }
+a:link, a:visited {
+  background-color: white;
+  color: black;
+  border: 2px solid green;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
